@@ -35,7 +35,7 @@ dao.close(); // DB 연결 닫기
 	<h2>목록 보기(List)</h2>
 	<!-- 검색 폼 -->
 	<form method="get">
-	<table vorder="1" width="90%">
+	<table border="1" width="90%">
 	<tr>
 		<td align="center">
 			<select name="searchField">
