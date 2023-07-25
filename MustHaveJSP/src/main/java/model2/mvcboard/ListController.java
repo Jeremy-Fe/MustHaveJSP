@@ -17,7 +17,6 @@ import utils.BoardPage;
 /**
  * Servlet implementation class ListController
  */
-@WebServlet("/mvcboard/list.do")
 public class ListController extends HttpServlet {
 	private static final long serialVersionUID = 1L;
 
